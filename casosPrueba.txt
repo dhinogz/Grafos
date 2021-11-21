@@ -1,0 +1,124 @@
+CASO 1
+
+13 16
+Alexandria
+Algeciras
+Ambarli
+Antwerp
+Balboa
+Bandar
+Barcelona
+Bremen
+Busan
+Cai_Mep
+Callao
+Cartagena
+Charleston
+Alexandria Algeciras
+Algeciras Ambarli
+Ambarli Antwerp
+Alexandria Balboa
+Balboa Bandar
+Bandar Barcelona
+Antwerp Bremen
+Bremen Busan
+Algeciras Cai_Mep
+Cai_Mep Callao
+Ambarli Cartagena
+Barcelona Callao
+Cai_Mep Cartagena
+Callao Charleston
+Cartagena Charleston
+Charleston Busan
+2
+
+Cai_Mep 2
+
+------------------------------------------------------------
+CASO 2
+
+6 8
+uno
+dos
+tres
+cuatro
+cinco
+seis
+uno dos
+uno cuatro
+uno cinco
+dos cuatro
+tres cuatro
+tres seis
+cuatro cinco
+cuatro seis
+1
+
+cuatro 1
+
+------------------------------------------------------------
+CASO 3
+
+23 36
+NewYork  
+Monterrey
+Paris    
+Caracas  
+LA       
+Londres  
+Cairo    
+Amsterdam
+Roma     
+Singapur 
+Tokio    
+HongKong 
+CDMX
+Szhenzhen
+Barcelona
+Moscow
+Shangai
+Chicago
+SF
+Lima
+Durben
+CDCabo
+Sydney
+NewYork Paris
+NewYork LA
+NewYork Monterrey
+NewYork Londres
+NewYork Roma
+NewYork CDMX
+NewYork Barcelona
+NewYork Chicago
+NewYork SF
+Monterrey LA
+Monterrey CDMX
+Monterrey Chicago
+Monterrey SF
+Paris Londres
+Paris Amsterdam
+Paris Roma
+Paris CDMX
+Paris Barcelona
+Caracas Lima
+LA Tokio
+LA CDMX
+LA Chicago
+LA SF
+Cairo CDMX
+Cairo Lima
+Amsterdam Roma
+Amsterdam Moscow
+Singapur Tokio
+Singapur HongKong
+Singapur Shenzhen
+Singapur Shanghai
+HongKong Sydney
+CDMX Londres
+CDMX Cairo
+Roma Durban
+Durban CDCabo
+1
+
+Londres 1
