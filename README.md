@@ -10,3 +10,49 @@ Cada entrada tendrá el siguiente formato. Empieza dos número enteros (n y m) q
 ### Salida
 
 Para cada consulta, muestra una sola línea que indica el número de caso de prueba (numerados secuencialmente desde uno), el número de puertos a los cuales no se puede llegar, el nombre del puerto inicial y el valor inicial de MNP. A continuación encontrarás un ejemplo de entrada y salida.
+
+### Modo de ejecución
+
+1) Insertar primero la siguiente lista en la terminal <br>
+13 16 <br>
+Alexandria <br>
+Algeciras <br> 
+Ambarli <br>
+Antwerp <br>
+Balboa <br>
+Bandar <br>
+Barcelona <br>
+Bremen <br>
+Busan <br>
+Cai_Mep <br>
+Callao <br>
+Cartagena <br>
+Charleston <br> 
+Alexandria Algeciras <br>
+Algeciras Ambarli <br>
+Ambarli Antwerp <br>
+Alexandria Balboa <br>
+Balboa Bandar <br>
+Bandar Barcelona <br>
+Antwerp Bremenn <br>
+Bremen Busan <br>
+Algeciras Cai_Mep <br>
+Cai_Mep Callao <br>
+Ambarli Cartagena <br>
+Barcelona Callao <br>
+Cai_Mep Cartagena <br>
+Callao Charleston <br>
+Cartagena Charleston <br>
+Charleston Busan <br>
+2  <br>
+
+2) Insertar uno por uno los casos a consultar <br>
+Cai_Mep 2
+(posteriormente dar enter, se imprimirá la consulta)
+
+<b>*ejemplo en la terminal*_________</b> <br>
+
+Cai_Mep 3 <br>
+Case 1: 1 ports not reachable from port Cai_Mep with MNP = 3 <br>
+Cai_Mep 2 <br>
+Case 2: 5 ports not reachable from port Cai_Mep with MNP = 2 <br>
